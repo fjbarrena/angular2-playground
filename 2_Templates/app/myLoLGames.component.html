@@ -1,0 +1,8 @@
+<h2>Mis partidas</h2>
+
+<ul>
+    <li *ngFor="let game of misPartidas" (click)="selectedGame(game)">
+        <p *ngIf="game.stats.win">Has ganado</p>
+        <p *ngIf="!game.stats.win">Has perdido</p>
+    </li>
+</ul>

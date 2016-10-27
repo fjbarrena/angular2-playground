@@ -1,0 +1,4230 @@
+{
+  "skins": [
+    {
+      "id": 1,
+      "championId": 32,
+      "skinUrl": "http://lolskingenerator.com/Skins/Amumu/Amumu_1.jpg",
+      "skinName": "Amumu Faraón"
+    },
+    {
+      "id": 2,
+      "championId": 32,
+      "skinUrl": "http://lolskingenerator.com/Skins/Amumu/Amumu_7.jpg",
+      "skinName": "Amumu el robot triste"
+    },
+    {
+      "id": 981,
+      "championId": 32,
+      "skinUrl": "http://www.marca.com",
+      "skinName": "Hola "
+    }
+  ],
+  "stats": [
+    {
+      "id": 111,
+      "stats": {
+        "totalDeathsPerSession": 17,
+        "totalSessionsPlayed": 3,
+        "totalDamageTaken": 76826,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 160,
+        "maxChampionsKilled": 2,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 55884,
+        "totalChampionKills": 6,
+        "totalAssists": 25,
+        "mostChampionKillsPerSession": 2,
+        "totalDamageDealt": 132335,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 2,
+        "totalMagicDamageDealt": 53876,
+        "totalGoldEarned": 28550,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 1,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 6,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 110,
+      "stats": {
+        "totalDeathsPerSession": 6,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 11654,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 117,
+        "maxChampionsKilled": 0,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 58848,
+        "totalChampionKills": 0,
+        "totalAssists": 3,
+        "mostChampionKillsPerSession": 0,
+        "totalDamageDealt": 65407,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 6559,
+        "totalGoldEarned": 6755,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 6,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 36,
+      "stats": {
+        "totalDeathsPerSession": 44,
+        "totalSessionsPlayed": 8,
+        "totalDamageTaken": 267915,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 1012,
+        "maxChampionsKilled": 8,
+        "totalDoubleKills": 1,
+        "totalPhysicalDamageDealt": 226369,
+        "totalChampionKills": 34,
+        "totalAssists": 44,
+        "mostChampionKillsPerSession": 8,
+        "totalDamageDealt": 800425,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 5,
+        "totalSessionsWon": 3,
+        "totalMagicDamageDealt": 567896,
+        "totalGoldEarned": 78310,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 4,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 11,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 115,
+      "stats": {
+        "totalDeathsPerSession": 9,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 19820,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 172,
+        "maxChampionsKilled": 9,
+        "totalDoubleKills": 1,
+        "totalPhysicalDamageDealt": 21294,
+        "totalChampionKills": 9,
+        "totalAssists": 15,
+        "mostChampionKillsPerSession": 9,
+        "totalDamageDealt": 193677,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 0,
+        "totalSessionsWon": 1,
+        "totalMagicDamageDealt": 172172,
+        "totalGoldEarned": 16037,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 2,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 9,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 114,
+      "stats": {
+        "totalDeathsPerSession": 11,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 36052,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 122,
+        "maxChampionsKilled": 4,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 108223,
+        "totalChampionKills": 4,
+        "totalAssists": 7,
+        "mostChampionKillsPerSession": 4,
+        "totalDamageDealt": 116372,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 0,
+        "totalSessionsWon": 1,
+        "totalMagicDamageDealt": 4938,
+        "totalGoldEarned": 14383,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 2,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 11,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 38,
+      "stats": {
+        "totalDeathsPerSession": 23,
+        "totalSessionsPlayed": 2,
+        "totalDamageTaken": 72747,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 228,
+        "maxChampionsKilled": 19,
+        "totalDoubleKills": 3,
+        "totalPhysicalDamageDealt": 48862,
+        "totalChampionKills": 22,
+        "totalAssists": 20,
+        "mostChampionKillsPerSession": 19,
+        "totalDamageDealt": 233402,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 2,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 184314,
+        "totalGoldEarned": 26725,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 14,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 103,
+      "stats": {
+        "totalDeathsPerSession": 5,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 13784,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 84,
+        "maxChampionsKilled": 0,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 17722,
+        "totalChampionKills": 0,
+        "totalAssists": 2,
+        "mostChampionKillsPerSession": 0,
+        "totalDamageDealt": 70011,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 32298,
+        "totalGoldEarned": 5984,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 5,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 50,
+      "stats": {
+        "totalDeathsPerSession": 35,
+        "totalSessionsPlayed": 5,
+        "totalDamageTaken": 214946,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 4,
+        "totalMinionKills": 886,
+        "maxChampionsKilled": 17,
+        "totalDoubleKills": 9,
+        "totalPhysicalDamageDealt": 113557,
+        "totalChampionKills": 53,
+        "totalAssists": 57,
+        "mostChampionKillsPerSession": 17,
+        "totalDamageDealt": 893360,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 2,
+        "totalSessionsWon": 3,
+        "totalMagicDamageDealt": 773274,
+        "totalGoldEarned": 80414,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 9,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 11,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 51,
+      "stats": {
+        "totalDeathsPerSession": 14,
+        "totalSessionsPlayed": 2,
+        "totalDamageTaken": 24894,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 196,
+        "maxChampionsKilled": 2,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 124234,
+        "totalChampionKills": 3,
+        "totalAssists": 7,
+        "mostChampionKillsPerSession": 2,
+        "totalDamageDealt": 125405,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 2,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 1170,
+        "totalGoldEarned": 14533,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 2,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 8,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 45,
+      "stats": {
+        "totalDeathsPerSession": 28,
+        "totalSessionsPlayed": 4,
+        "totalDamageTaken": 85257,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 569,
+        "maxChampionsKilled": 16,
+        "totalDoubleKills": 1,
+        "totalPhysicalDamageDealt": 50536,
+        "totalChampionKills": 30,
+        "totalAssists": 32,
+        "mostChampionKillsPerSession": 16,
+        "totalDamageDealt": 500547,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 2,
+        "totalSessionsWon": 2,
+        "totalMagicDamageDealt": 449561,
+        "totalGoldEarned": 48012,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 1,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 11,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 126,
+      "stats": {
+        "totalDeathsPerSession": 2,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 14976,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 179,
+        "maxChampionsKilled": 1,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 131920,
+        "totalChampionKills": 1,
+        "totalAssists": 10,
+        "mostChampionKillsPerSession": 1,
+        "totalDamageDealt": 146977,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 0,
+        "totalSessionsWon": 1,
+        "totalMagicDamageDealt": 15056,
+        "totalGoldEarned": 12237,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 5,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 2,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 57,
+      "stats": {
+        "totalDeathsPerSession": 95,
+        "totalSessionsPlayed": 15,
+        "totalDamageTaken": 474037,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 1,
+        "totalMinionKills": 2276,
+        "maxChampionsKilled": 8,
+        "totalDoubleKills": 2,
+        "totalPhysicalDamageDealt": 337213,
+        "totalChampionKills": 75,
+        "totalAssists": 163,
+        "mostChampionKillsPerSession": 8,
+        "totalDamageDealt": 1939258,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 7,
+        "totalSessionsWon": 8,
+        "totalMagicDamageDealt": 1600536,
+        "totalGoldEarned": 185196,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 14,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 11,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 53,
+      "stats": {
+        "totalDeathsPerSession": 67,
+        "totalSessionsPlayed": 8,
+        "totalDamageTaken": 294384,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 454,
+        "maxChampionsKilled": 5,
+        "totalDoubleKills": 1,
+        "totalPhysicalDamageDealt": 121169,
+        "totalChampionKills": 25,
+        "totalAssists": 132,
+        "mostChampionKillsPerSession": 5,
+        "totalDamageDealt": 411966,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 5,
+        "totalSessionsWon": 3,
+        "totalMagicDamageDealt": 245294,
+        "totalGoldEarned": 91065,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 1,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 15,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 55,
+      "stats": {
+        "totalDeathsPerSession": 12,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 33108,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 136,
+        "maxChampionsKilled": 5,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 19405,
+        "totalChampionKills": 5,
+        "totalAssists": 15,
+        "mostChampionKillsPerSession": 5,
+        "totalDamageDealt": 145772,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 0,
+        "totalSessionsWon": 1,
+        "totalMagicDamageDealt": 125539,
+        "totalGoldEarned": 15546,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 12,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 54,
+      "stats": {
+        "totalDeathsPerSession": 23,
+        "totalSessionsPlayed": 3,
+        "totalDamageTaken": 123555,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 288,
+        "maxChampionsKilled": 5,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 139516,
+        "totalChampionKills": 8,
+        "totalAssists": 33,
+        "mostChampionKillsPerSession": 5,
+        "totalDamageDealt": 255015,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 2,
+        "totalSessionsWon": 1,
+        "totalMagicDamageDealt": 103149,
+        "totalGoldEarned": 34632,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 1,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 9,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 61,
+      "stats": {
+        "totalDeathsPerSession": 5,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 21305,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 160,
+        "maxChampionsKilled": 4,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 18866,
+        "totalChampionKills": 4,
+        "totalAssists": 16,
+        "mostChampionKillsPerSession": 4,
+        "totalDamageDealt": 122959,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 103672,
+        "totalGoldEarned": 12576,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 5,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 63,
+      "stats": {
+        "totalDeathsPerSession": 3,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 9119,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 89,
+        "maxChampionsKilled": 1,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 12238,
+        "totalChampionKills": 1,
+        "totalAssists": 1,
+        "mostChampionKillsPerSession": 1,
+        "totalDamageDealt": 48338,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 36099,
+        "totalGoldEarned": 5240,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 3,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 1,
+      "stats": {
+        "totalDeathsPerSession": 85,
+        "totalSessionsPlayed": 10,
+        "totalDamageTaken": 242303,
+        "totalQuadraKills": 1,
+        "totalTripleKills": 2,
+        "totalMinionKills": 1271,
+        "maxChampionsKilled": 22,
+        "totalDoubleKills": 9,
+        "totalPhysicalDamageDealt": 147029,
+        "totalChampionKills": 107,
+        "totalAssists": 131,
+        "mostChampionKillsPerSession": 22,
+        "totalDamageDealt": 1298992,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 3,
+        "totalSessionsWon": 7,
+        "totalMagicDamageDealt": 1145373,
+        "totalGoldEarned": 137432,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 7,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 14,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 62,
+      "stats": {
+        "totalDeathsPerSession": 7,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 30472,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 159,
+        "maxChampionsKilled": 6,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 126021,
+        "totalChampionKills": 6,
+        "totalAssists": 15,
+        "mostChampionKillsPerSession": 6,
+        "totalDamageDealt": 140747,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 0,
+        "totalSessionsWon": 1,
+        "totalMagicDamageDealt": 13632,
+        "totalGoldEarned": 14129,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 7,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 0,
+      "stats": {
+        "totalDamageTaken": 7738547,
+        "totalTripleKills": 27,
+        "totalMinionKills": 39796,
+        "maxChampionsKilled": 24,
+        "maxLargestCriticalStrike": 1692,
+        "totalChampionKills": 2008,
+        "totalPhysicalDamageDealt": 8649027,
+        "rankedPremadeGamesPlayed": 0,
+        "totalSessionsLost": 154,
+        "totalNeutralMinionsKilled": 1320,
+        "totalSessionsWon": 155,
+        "totalMagicDamageDealt": 28374711,
+        "maxLargestKillingSpree": 12,
+        "totalPentaKills": 0,
+        "maxTimeSpentLiving": 2022,
+        "totalDeathsPerSession": 2019,
+        "totalQuadraKills": 2,
+        "totalSessionsPlayed": 309,
+        "totalDoubleKills": 165,
+        "totalAssists": 3202,
+        "maxTimePlayed": 4598,
+        "mostChampionKillsPerSession": 24,
+        "totalDamageDealt": 37373202,
+        "botGamesPlayed": 0,
+        "killingSpree": 846,
+        "totalFirstBlood": 0,
+        "rankedSoloGamesPlayed": 0,
+        "totalHeal": 1552554,
+        "totalGoldEarned": 3831608,
+        "mostSpellsCast": 0,
+        "totalTurretsKilled": 229,
+        "maxNumDeaths": 16,
+        "totalUnrealKills": 0,
+        "normalGamesPlayed": 0
+      }
+    },
+    {
+      "id": 75,
+      "stats": {
+        "totalDeathsPerSession": 10,
+        "totalSessionsPlayed": 2,
+        "totalDamageTaken": 35634,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 181,
+        "maxChampionsKilled": 4,
+        "totalDoubleKills": 1,
+        "totalPhysicalDamageDealt": 69353,
+        "totalChampionKills": 4,
+        "totalAssists": 6,
+        "mostChampionKillsPerSession": 4,
+        "totalDamageDealt": 102081,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 1,
+        "totalMagicDamageDealt": 32727,
+        "totalGoldEarned": 13113,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 3,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 10,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 5,
+      "stats": {
+        "totalDeathsPerSession": 56,
+        "totalSessionsPlayed": 7,
+        "totalDamageTaken": 237790,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 1,
+        "totalMinionKills": 754,
+        "maxChampionsKilled": 22,
+        "totalDoubleKills": 10,
+        "totalPhysicalDamageDealt": 677485,
+        "totalChampionKills": 74,
+        "totalAssists": 46,
+        "mostChampionKillsPerSession": 22,
+        "totalDamageDealt": 735626,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 6,
+        "totalMagicDamageDealt": 54722,
+        "totalGoldEarned": 93069,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 9,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 15,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 76,
+      "stats": {
+        "totalDeathsPerSession": 9,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 16012,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 21,
+        "maxChampionsKilled": 1,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 4649,
+        "totalChampionKills": 1,
+        "totalAssists": 7,
+        "mostChampionKillsPerSession": 1,
+        "totalDamageDealt": 27524,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 22875,
+        "totalGoldEarned": 7006,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 9,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 3,
+      "stats": {
+        "totalDeathsPerSession": 16,
+        "totalSessionsPlayed": 2,
+        "totalDamageTaken": 64187,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 190,
+        "maxChampionsKilled": 7,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 23083,
+        "totalChampionKills": 7,
+        "totalAssists": 36,
+        "mostChampionKillsPerSession": 7,
+        "totalDamageDealt": 196788,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 1,
+        "totalMagicDamageDealt": 172630,
+        "totalGoldEarned": 21972,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 11,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 74,
+      "stats": {
+        "totalDeathsPerSession": 111,
+        "totalSessionsPlayed": 17,
+        "totalDamageTaken": 356569,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 2,
+        "totalMinionKills": 2737,
+        "maxChampionsKilled": 14,
+        "totalDoubleKills": 9,
+        "totalPhysicalDamageDealt": 288009,
+        "totalChampionKills": 106,
+        "totalAssists": 139,
+        "mostChampionKillsPerSession": 14,
+        "totalDamageDealt": 2370525,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 11,
+        "totalSessionsWon": 6,
+        "totalMagicDamageDealt": 2078976,
+        "totalGoldEarned": 223547,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 12,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 14,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 69,
+      "stats": {
+        "totalDeathsPerSession": 6,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 16317,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 105,
+        "maxChampionsKilled": 3,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 18966,
+        "totalChampionKills": 3,
+        "totalAssists": 4,
+        "mostChampionKillsPerSession": 3,
+        "totalDamageDealt": 91436,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 72470,
+        "totalGoldEarned": 9171,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 6,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 7,
+      "stats": {
+        "totalDeathsPerSession": 27,
+        "totalSessionsPlayed": 3,
+        "totalDamageTaken": 77472,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 1,
+        "totalMinionKills": 225,
+        "maxChampionsKilled": 17,
+        "totalDoubleKills": 2,
+        "totalPhysicalDamageDealt": 53664,
+        "totalChampionKills": 25,
+        "totalAssists": 26,
+        "mostChampionKillsPerSession": 17,
+        "totalDamageDealt": 229850,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 2,
+        "totalSessionsWon": 1,
+        "totalMagicDamageDealt": 175959,
+        "totalGoldEarned": 31026,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 14,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 8,
+      "stats": {
+        "totalDeathsPerSession": 50,
+        "totalSessionsPlayed": 6,
+        "totalDamageTaken": 156479,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 780,
+        "maxChampionsKilled": 13,
+        "totalDoubleKills": 2,
+        "totalPhysicalDamageDealt": 87102,
+        "totalChampionKills": 34,
+        "totalAssists": 44,
+        "mostChampionKillsPerSession": 13,
+        "totalDamageDealt": 712260,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 3,
+        "totalSessionsWon": 3,
+        "totalMagicDamageDealt": 625035,
+        "totalGoldEarned": 67182,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 4,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 13,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 13,
+      "stats": {
+        "totalDeathsPerSession": 21,
+        "totalSessionsPlayed": 2,
+        "totalDamageTaken": 58311,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 265,
+        "maxChampionsKilled": 5,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 38506,
+        "totalChampionKills": 5,
+        "totalAssists": 20,
+        "mostChampionKillsPerSession": 5,
+        "totalDamageDealt": 275354,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 1,
+        "totalMagicDamageDealt": 233471,
+        "totalGoldEarned": 23759,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 2,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 14,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 136,
+      "stats": {
+        "totalDeathsPerSession": 38,
+        "totalSessionsPlayed": 6,
+        "totalDamageTaken": 136841,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 776,
+        "maxChampionsKilled": 10,
+        "totalDoubleKills": 4,
+        "totalPhysicalDamageDealt": 87991,
+        "totalChampionKills": 33,
+        "totalAssists": 40,
+        "mostChampionKillsPerSession": 10,
+        "totalDamageDealt": 686232,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 5,
+        "totalSessionsWon": 1,
+        "totalMagicDamageDealt": 592453,
+        "totalGoldEarned": 64537,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 2,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 9,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 12,
+      "stats": {
+        "totalDeathsPerSession": 31,
+        "totalSessionsPlayed": 4,
+        "totalDamageTaken": 169959,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 176,
+        "maxChampionsKilled": 3,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 42598,
+        "totalChampionKills": 6,
+        "totalAssists": 78,
+        "mostChampionKillsPerSession": 3,
+        "totalDamageDealt": 128144,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 2,
+        "totalSessionsWon": 2,
+        "totalMagicDamageDealt": 64850,
+        "totalGoldEarned": 39236,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 12,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 17,
+      "stats": {
+        "totalDeathsPerSession": 11,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 36031,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 209,
+        "maxChampionsKilled": 11,
+        "totalDoubleKills": 2,
+        "totalPhysicalDamageDealt": 91955,
+        "totalChampionKills": 11,
+        "totalAssists": 11,
+        "mostChampionKillsPerSession": 11,
+        "totalDamageDealt": 271888,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 0,
+        "totalSessionsWon": 1,
+        "totalMagicDamageDealt": 179248,
+        "totalGoldEarned": 19262,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 11,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 420,
+      "stats": {
+        "totalDeathsPerSession": 29,
+        "totalSessionsPlayed": 4,
+        "totalDamageTaken": 126841,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 602,
+        "maxChampionsKilled": 6,
+        "totalDoubleKills": 1,
+        "totalPhysicalDamageDealt": 528453,
+        "totalChampionKills": 14,
+        "totalAssists": 13,
+        "mostChampionKillsPerSession": 6,
+        "totalDamageDealt": 530443,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 4,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 259,
+        "totalGoldEarned": 39853,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 2,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 10,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 79,
+      "stats": {
+        "totalDeathsPerSession": 61,
+        "totalSessionsPlayed": 9,
+        "totalDamageTaken": 300176,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 1270,
+        "maxChampionsKilled": 12,
+        "totalDoubleKills": 3,
+        "totalPhysicalDamageDealt": 259214,
+        "totalChampionKills": 49,
+        "totalAssists": 84,
+        "mostChampionKillsPerSession": 12,
+        "totalDamageDealt": 1264293,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 4,
+        "totalSessionsWon": 5,
+        "totalMagicDamageDealt": 989937,
+        "totalGoldEarned": 122130,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 4,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 12,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 80,
+      "stats": {
+        "totalDeathsPerSession": 7,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 18212,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 104,
+        "maxChampionsKilled": 0,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 59024,
+        "totalChampionKills": 0,
+        "totalAssists": 4,
+        "mostChampionKillsPerSession": 0,
+        "totalDamageDealt": 66820,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 7796,
+        "totalGoldEarned": 7042,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 7,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 15,
+      "stats": {
+        "totalDeathsPerSession": 33,
+        "totalSessionsPlayed": 4,
+        "totalDamageTaken": 76118,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 1,
+        "totalMinionKills": 551,
+        "maxChampionsKilled": 12,
+        "totalDoubleKills": 3,
+        "totalPhysicalDamageDealt": 501048,
+        "totalChampionKills": 27,
+        "totalAssists": 66,
+        "mostChampionKillsPerSession": 12,
+        "totalDamageDealt": 503615,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 3,
+        "totalMagicDamageDealt": 662,
+        "totalGoldEarned": 49255,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 4,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 13,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 16,
+      "stats": {
+        "totalDeathsPerSession": 10,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 24615,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 47,
+        "maxChampionsKilled": 4,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 6589,
+        "totalChampionKills": 4,
+        "totalAssists": 14,
+        "mostChampionKillsPerSession": 4,
+        "totalDamageDealt": 50541,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 43952,
+        "totalGoldEarned": 11040,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 10,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 22,
+      "stats": {
+        "totalDeathsPerSession": 7,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 16874,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 111,
+        "maxChampionsKilled": 4,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 58961,
+        "totalChampionKills": 4,
+        "totalAssists": 12,
+        "mostChampionKillsPerSession": 4,
+        "totalDamageDealt": 63345,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 4383,
+        "totalGoldEarned": 9498,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 7,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 267,
+      "stats": {
+        "totalDeathsPerSession": 13,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 44256,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 21,
+        "maxChampionsKilled": 0,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 9112,
+        "totalChampionKills": 0,
+        "totalAssists": 19,
+        "mostChampionKillsPerSession": 0,
+        "totalDamageDealt": 45882,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 36770,
+        "totalGoldEarned": 13724,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 13,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 21,
+      "stats": {
+        "totalDeathsPerSession": 6,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 22618,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 166,
+        "maxChampionsKilled": 4,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 105255,
+        "totalChampionKills": 4,
+        "totalAssists": 7,
+        "mostChampionKillsPerSession": 4,
+        "totalDamageDealt": 117873,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 10987,
+        "totalGoldEarned": 10814,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 6,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 90,
+      "stats": {
+        "totalDeathsPerSession": 271,
+        "totalSessionsPlayed": 41,
+        "totalDamageTaken": 749038,
+        "totalQuadraKills": 1,
+        "totalTripleKills": 8,
+        "totalMinionKills": 6570,
+        "maxChampionsKilled": 24,
+        "totalDoubleKills": 38,
+        "totalPhysicalDamageDealt": 1223390,
+        "totalChampionKills": 349,
+        "totalAssists": 414,
+        "mostChampionKillsPerSession": 24,
+        "totalDamageDealt": 5877314,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 18,
+        "totalSessionsWon": 23,
+        "totalMagicDamageDealt": 4632717,
+        "totalGoldEarned": 562789,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 32,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 13,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 19,
+      "stats": {
+        "totalDeathsPerSession": 9,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 59993,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 98,
+        "maxChampionsKilled": 11,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 131633,
+        "totalChampionKills": 11,
+        "totalAssists": 10,
+        "mostChampionKillsPerSession": 11,
+        "totalDamageDealt": 225245,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 77582,
+        "totalGoldEarned": 17970,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 6,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 9,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 26,
+      "stats": {
+        "totalDeathsPerSession": 39,
+        "totalSessionsPlayed": 9,
+        "totalDamageTaken": 139823,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 410,
+        "maxChampionsKilled": 8,
+        "totalDoubleKills": 2,
+        "totalPhysicalDamageDealt": 64284,
+        "totalChampionKills": 26,
+        "totalAssists": 102,
+        "mostChampionKillsPerSession": 8,
+        "totalDamageDealt": 551105,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 4,
+        "totalSessionsWon": 5,
+        "totalMagicDamageDealt": 486487,
+        "totalGoldEarned": 84377,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 4,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 11,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 412,
+      "stats": {
+        "totalDeathsPerSession": 54,
+        "totalSessionsPlayed": 8,
+        "totalDamageTaken": 190039,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 254,
+        "maxChampionsKilled": 5,
+        "totalDoubleKills": 1,
+        "totalPhysicalDamageDealt": 89905,
+        "totalChampionKills": 18,
+        "totalAssists": 76,
+        "mostChampionKillsPerSession": 5,
+        "totalDamageDealt": 233179,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 4,
+        "totalSessionsWon": 4,
+        "totalMagicDamageDealt": 142569,
+        "totalGoldEarned": 64284,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 3,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 9,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 25,
+      "stats": {
+        "totalDeathsPerSession": 73,
+        "totalSessionsPlayed": 11,
+        "totalDamageTaken": 268752,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 496,
+        "maxChampionsKilled": 9,
+        "totalDoubleKills": 3,
+        "totalPhysicalDamageDealt": 103491,
+        "totalChampionKills": 47,
+        "totalAssists": 177,
+        "mostChampionKillsPerSession": 9,
+        "totalDamageDealt": 759180,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 5,
+        "totalSessionsWon": 6,
+        "totalMagicDamageDealt": 654220,
+        "totalGoldEarned": 133912,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 5,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 16,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 86,
+      "stats": {
+        "totalDeathsPerSession": 20,
+        "totalSessionsPlayed": 3,
+        "totalDamageTaken": 118973,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 590,
+        "maxChampionsKilled": 7,
+        "totalDoubleKills": 2,
+        "totalPhysicalDamageDealt": 404019,
+        "totalChampionKills": 12,
+        "totalAssists": 25,
+        "mostChampionKillsPerSession": 7,
+        "totalDamageDealt": 473988,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 3,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 64670,
+        "totalGoldEarned": 39543,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 2,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 8,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 223,
+      "stats": {
+        "totalDeathsPerSession": 9,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 14107,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 38,
+        "maxChampionsKilled": 0,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 13943,
+        "totalChampionKills": 0,
+        "totalAssists": 2,
+        "mostChampionKillsPerSession": 0,
+        "totalDamageDealt": 24668,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 10725,
+        "totalGoldEarned": 4298,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 9,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 30,
+      "stats": {
+        "totalDeathsPerSession": 15,
+        "totalSessionsPlayed": 3,
+        "totalDamageTaken": 39793,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 325,
+        "maxChampionsKilled": 9,
+        "totalDoubleKills": 1,
+        "totalPhysicalDamageDealt": 21876,
+        "totalChampionKills": 12,
+        "totalAssists": 12,
+        "mostChampionKillsPerSession": 9,
+        "totalDamageDealt": 249536,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 2,
+        "totalSessionsWon": 1,
+        "totalMagicDamageDealt": 227163,
+        "totalGoldEarned": 24185,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 1,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 7,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 101,
+      "stats": {
+        "totalDeathsPerSession": 4,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 14165,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 114,
+        "maxChampionsKilled": 3,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 14839,
+        "totalChampionKills": 3,
+        "totalAssists": 9,
+        "mostChampionKillsPerSession": 3,
+        "totalDamageDealt": 106987,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 92147,
+        "totalGoldEarned": 10242,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 4,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 99,
+      "stats": {
+        "totalDeathsPerSession": 187,
+        "totalSessionsPlayed": 36,
+        "totalDamageTaken": 563883,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 1,
+        "totalMinionKills": 4841,
+        "maxChampionsKilled": 16,
+        "totalDoubleKills": 17,
+        "totalPhysicalDamageDealt": 702032,
+        "totalChampionKills": 268,
+        "totalAssists": 386,
+        "mostChampionKillsPerSession": 16,
+        "totalDamageDealt": 4991349,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 17,
+        "totalSessionsWon": 19,
+        "totalMagicDamageDealt": 4269216,
+        "totalGoldEarned": 461147,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 37,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 13,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 27,
+      "stats": {
+        "totalDeathsPerSession": 19,
+        "totalSessionsPlayed": 3,
+        "totalDamageTaken": 72925,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 1,
+        "totalMinionKills": 483,
+        "maxChampionsKilled": 5,
+        "totalDoubleKills": 1,
+        "totalPhysicalDamageDealt": 24468,
+        "totalChampionKills": 8,
+        "totalAssists": 10,
+        "mostChampionKillsPerSession": 5,
+        "totalDamageDealt": 347517,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 3,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 323048,
+        "totalGoldEarned": 27481,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 1,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 8,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 96,
+      "stats": {
+        "totalDeathsPerSession": 10,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 29489,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 186,
+        "maxChampionsKilled": 5,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 135330,
+        "totalChampionKills": 5,
+        "totalAssists": 11,
+        "mostChampionKillsPerSession": 5,
+        "totalDamageDealt": 184547,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 35316,
+        "totalGoldEarned": 14758,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 10,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 34,
+      "stats": {
+        "totalDeathsPerSession": 240,
+        "totalSessionsPlayed": 44,
+        "totalDamageTaken": 1280215,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 5,
+        "totalMinionKills": 6814,
+        "maxChampionsKilled": 22,
+        "totalDoubleKills": 36,
+        "totalPhysicalDamageDealt": 708674,
+        "totalChampionKills": 437,
+        "totalAssists": 532,
+        "mostChampionKillsPerSession": 22,
+        "totalDamageDealt": 6644679,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 14,
+        "totalSessionsWon": 30,
+        "totalMagicDamageDealt": 5899450,
+        "totalGoldEarned": 638165,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 45,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 12,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 33,
+      "stats": {
+        "totalDeathsPerSession": 12,
+        "totalSessionsPlayed": 1,
+        "totalDamageTaken": 54184,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 206,
+        "maxChampionsKilled": 2,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 54694,
+        "totalChampionKills": 2,
+        "totalAssists": 12,
+        "mostChampionKillsPerSession": 2,
+        "totalDamageDealt": 181430,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 0,
+        "totalMagicDamageDealt": 126707,
+        "totalGoldEarned": 14228,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 0,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 12,
+        "totalUnrealKills": 0
+      }
+    },
+    {
+      "id": 31,
+      "stats": {
+        "totalDeathsPerSession": 14,
+        "totalSessionsPlayed": 3,
+        "totalDamageTaken": 84702,
+        "totalQuadraKills": 0,
+        "totalTripleKills": 0,
+        "totalMinionKills": 522,
+        "maxChampionsKilled": 3,
+        "totalDoubleKills": 0,
+        "totalPhysicalDamageDealt": 66526,
+        "totalChampionKills": 6,
+        "totalAssists": 20,
+        "mostChampionKillsPerSession": 3,
+        "totalDamageDealt": 410993,
+        "totalFirstBlood": 0,
+        "totalSessionsLost": 1,
+        "totalSessionsWon": 2,
+        "totalMagicDamageDealt": 298124,
+        "totalGoldEarned": 30237,
+        "totalPentaKills": 0,
+        "totalTurretsKilled": 2,
+        "mostSpellsCast": 0,
+        "maxNumDeaths": 7,
+        "totalUnrealKills": 0
+      }
+    }
+  ],
+  "games": [
+    {
+      "fellowPlayers": [
+        {
+          "championId": 81,
+          "teamId": 200,
+          "summonerId": 50920492
+        },
+        {
+          "championId": 64,
+          "teamId": 100,
+          "summonerId": 25961648
+        },
+        {
+          "championId": 25,
+          "teamId": 200,
+          "summonerId": 48834235
+        },
+        {
+          "championId": 11,
+          "teamId": 200,
+          "summonerId": 39658936
+        },
+        {
+          "championId": 111,
+          "teamId": 100,
+          "summonerId": 63407064
+        },
+        {
+          "championId": 412,
+          "teamId": 200,
+          "summonerId": 207437
+        },
+        {
+          "championId": 82,
+          "teamId": 100,
+          "summonerId": 46443920
+        },
+        {
+          "championId": 18,
+          "teamId": 100,
+          "summonerId": 53117340
+        },
+        {
+          "championId": 238,
+          "teamId": 100,
+          "summonerId": 79688106
+        }
+      ],
+      "gameType": "MATCHED_GAME",
+      "stats": {
+        "totalDamageDealtToChampions": 21962,
+        "item2": 3117,
+        "goldEarned": 12585,
+        "item1": 3040,
+        "wardPlaced": 9,
+        "item0": 3027,
+        "totalDamageTaken": 18839,
+        "physicalDamageDealtPlayer": 22240,
+        "killingSprees": 2,
+        "playerRole": 4,
+        "totalUnitsHealed": 1,
+        "playerPosition": 2,
+        "largestCriticalStrike": 490,
+        "level": 17,
+        "totalDamageDealtToBuildings": 10631,
+        "magicDamageDealtToChampions": 20633,
+        "turretsKilled": 3,
+        "magicDamageDealtPlayer": 87924,
+        "neutralMinionsKilledEnemyJungle": 2,
+        "assists": 17,
+        "magicDamageTaken": 3550,
+        "numDeaths": 2,
+        "totalTimeCrowdControlDealt": 1199,
+        "largestMultiKill": 1,
+        "physicalDamageTaken": 14963,
+        "team": 200,
+        "win": true,
+        "totalDamageDealt": 110164,
+        "largestKillingSpree": 3,
+        "totalHeal": 7232,
+        "item4": 1026,
+        "item3": 3285,
+        "item6": 3340,
+        "minionsKilled": 146,
+        "timePlayed": 1963,
+        "physicalDamageDealtToChampions": 1328,
+        "championsKilled": 5,
+        "trueDamageTaken": 326,
+        "goldSpent": 11050,
+        "neutralMinionsKilled": 2
+      },
+      "gameId": 2890339121,
+      "ipEarned": 92,
+      "spell1": 4,
+      "teamId": 200,
+      "spell2": 12,
+      "gameMode": "CLASSIC",
+      "mapId": 11,
+      "level": 30,
+      "invalid": false,
+      "subType": "RANKED_SOLO_5x5",
+      "createDate": 1476747676144,
+      "championId": 34
+    },
+    {
+      "fellowPlayers": [
+        {
+          "championId": 34,
+          "teamId": 200,
+          "summonerId": 65809012
+        },
+        {
+          "championId": 150,
+          "teamId": 100,
+          "summonerId": 83608008
+        },
+        {
+          "championId": 78,
+          "teamId": 200,
+          "summonerId": 80437761
+        },
+        {
+          "championId": 37,
+          "teamId": 200,
+          "summonerId": 19645615
+        },
+        {
+          "championId": 5,
+          "teamId": 100,
+          "summonerId": 86110103
+        },
+        {
+          "championId": 126,
+          "teamId": 200,
+          "summonerId": 34001819
+        },
+        {
+          "championId": 222,
+          "teamId": 100,
+          "summonerId": 34171032
+        },
+        {
+          "championId": 201,
+          "teamId": 100,
+          "summonerId": 43060035
+        },
+        {
+          "championId": 22,
+          "teamId": 200,
+          "summonerId": 84599137
+        }
+      ],
+      "gameType": "MATCHED_GAME",
+      "stats": {
+        "totalDamageDealtToChampions": 18102,
+        "item2": 1001,
+        "goldEarned": 7457,
+        "item1": 3165,
+        "wardPlaced": 9,
+        "totalDamageTaken": 15374,
+        "item0": 1056,
+        "physicalDamageDealtPlayer": 13745,
+        "killingSprees": 1,
+        "playerRole": 4,
+        "totalUnitsHealed": 1,
+        "playerPosition": 2,
+        "largestCriticalStrike": 45,
+        "level": 12,
+        "totalDamageDealtToBuildings": 950,
+        "magicDamageDealtToChampions": 17509,
+        "magicDamageDealtPlayer": 61752,
+        "assists": 2,
+        "magicDamageTaken": 7564,
+        "numDeaths": 7,
+        "totalTimeCrowdControlDealt": 118,
+        "largestMultiKill": 1,
+        "physicalDamageTaken": 7479,
+        "win": false,
+        "team": 100,
+        "totalDamageDealt": 75497,
+        "largestKillingSpree": 2,
+        "totalHeal": 689,
+        "item4": 3010,
+        "item3": 3113,
+        "item6": 3340,
+        "minionsKilled": 119,
+        "timePlayed": 1527,
+        "physicalDamageDealtToChampions": 592,
+        "championsKilled": 3,
+        "trueDamageTaken": 330,
+        "goldSpent": 5800
+      },
+      "gameId": 2889956204,
+      "ipEarned": 51,
+      "spell1": 4,
+      "teamId": 100,
+      "spell2": 12,
+      "gameMode": "CLASSIC",
+      "mapId": 11,
+      "level": 30,
+      "invalid": false,
+      "subType": "RANKED_SOLO_5x5",
+      "createDate": 1476728086416,
+      "championId": 1
+    },
+    {
+      "fellowPlayers": [
+        {
+          "championId": 35,
+          "teamId": 200,
+          "summonerId": 33412064
+        },
+        {
+          "championId": 412,
+          "teamId": 200,
+          "summonerId": 72610215
+        },
+        {
+          "championId": 236,
+          "teamId": 100,
+          "summonerId": 21143640
+        },
+        {
+          "championId": 157,
+          "teamId": 100,
+          "summonerId": 60227052
+        },
+        {
+          "championId": 30,
+          "teamId": 100,
+          "summonerId": 25234747
+        },
+        {
+          "championId": 24,
+          "teamId": 100,
+          "summonerId": 53218451
+        },
+        {
+          "championId": 54,
+          "teamId": 200,
+          "summonerId": 62657197
+        },
+        {
+          "championId": 202,
+          "teamId": 200,
+          "summonerId": 88737008
+        },
+        {
+          "championId": 12,
+          "teamId": 100,
+          "summonerId": 52655794
+        }
+      ],
+      "gameType": "MATCHED_GAME",
+      "stats": {
+        "totalDamageDealtToChampions": 43567,
+        "item2": 3089,
+        "goldEarned": 18696,
+        "item1": 3165,
+        "wardPlaced": 18,
+        "item0": 3285,
+        "totalDamageTaken": 22973,
+        "trueDamageDealtPlayer": 1110,
+        "physicalDamageDealtPlayer": 19411,
+        "trueDamageDealtToChampions": 315,
+        "killingSprees": 5,
+        "playerRole": 4,
+        "totalUnitsHealed": 1,
+        "bountyLevel": 3,
+        "playerPosition": 2,
+        "largestCriticalStrike": 123,
+        "level": 18,
+        "doubleKills": 2,
+        "neutralMinionsKilledYourJungle": 12,
+        "totalDamageDealtToBuildings": 6967,
+        "magicDamageDealtToChampions": 42360,
+        "turretsKilled": 1,
+        "magicDamageDealtPlayer": 182150,
+        "assists": 19,
+        "magicDamageTaken": 11355,
+        "numDeaths": 7,
+        "totalTimeCrowdControlDealt": 175,
+        "largestMultiKill": 2,
+        "physicalDamageTaken": 10701,
+        "team": 200,
+        "win": true,
+        "totalDamageDealt": 202671,
+        "largestKillingSpree": 3,
+        "totalHeal": 3114,
+        "item4": 3027,
+        "item3": 3020,
+        "item6": 3340,
+        "item5": 3102,
+        "minionsKilled": 193,
+        "timePlayed": 2570,
+        "physicalDamageDealtToChampions": 892,
+        "championsKilled": 17,
+        "trueDamageTaken": 916,
+        "goldSpent": 16650,
+        "neutralMinionsKilled": 12
+      },
+      "gameId": 2889914168,
+      "ipEarned": 265,
+      "spell1": 4,
+      "teamId": 200,
+      "spell2": 12,
+      "gameMode": "CLASSIC",
+      "mapId": 11,
+      "level": 30,
+      "invalid": false,
+      "subType": "RANKED_SOLO_5x5",
+      "createDate": 1476725908102,
+      "championId": 1
+    },
+    {
+      "fellowPlayers": [
+        {
+          "championId": 412,
+          "teamId": 200,
+          "summonerId": 82747149
+        },
+        {
+          "championId": 113,
+          "teamId": 100,
+          "summonerId": 28906196
+        },
+        {
+          "championId": 51,
+          "teamId": 100,
+          "summonerId": 22567144
+        },
+        {
+          "championId": 5,
+          "teamId": 200,
+          "summonerId": 39231919
+        },
+        {
+          "championId": 222,
+          "teamId": 200,
+          "summonerId": 86517710
+        },
+        {
+          "championId": 31,
+          "teamId": 200,
+          "summonerId": 20707787
+        },
+        {
+          "championId": 40,
+          "teamId": 100,
+          "summonerId": 82571042
+        },
+        {
+          "championId": 114,
+          "teamId": 100,
+          "summonerId": 71389371
+        },
+        {
+          "championId": 268,
+          "teamId": 100,
+          "summonerId": 83787874
+        }
+      ],
+      "gameType": "MATCHED_GAME",
+      "stats": {
+        "totalDamageDealtToChampions": 29404,
+        "item2": 3117,
+        "barracksKilled": 1,
+        "goldEarned": 11873,
+        "item1": 1011,
+        "wardPlaced": 9,
+        "item0": 3165,
+        "totalDamageTaken": 14048,
+        "trueDamageDealtPlayer": 980,
+        "physicalDamageDealtPlayer": 12503,
+        "trueDamageDealtToChampions": 188,
+        "killingSprees": 2,
+        "playerRole": 4,
+        "totalUnitsHealed": 1,
+        "bountyLevel": 2,
+        "playerPosition": 2,
+        "largestCriticalStrike": 95,
+        "level": 14,
+        "neutralMinionsKilledYourJungle": 1,
+        "totalDamageDealtToBuildings": 9837,
+        "magicDamageDealtToChampions": 28198,
+        "turretsKilled": 1,
+        "magicDamageDealtPlayer": 74754,
+        "assists": 11,
+        "magicDamageTaken": 7861,
+        "numDeaths": 6,
+        "totalTimeCrowdControlDealt": 150,
+        "largestMultiKill": 1,
+        "physicalDamageTaken": 5840,
+        "team": 200,
+        "win": true,
+        "totalDamageDealt": 88237,
+        "largestKillingSpree": 4,
+        "totalHeal": 1199,
+        "item4": 3027,
+        "item3": 3285,
+        "item6": 3340,
+        "minionsKilled": 80,
+        "timePlayed": 1900,
+        "wardKilled": 1,
+        "physicalDamageDealtToChampions": 1018,
+        "championsKilled": 10,
+        "trueDamageTaken": 345,
+        "goldSpent": 11200,
+        "neutralMinionsKilled": 1
+      },
+      "gameId": 2888424899,
+      "ipEarned": 239,
+      "spell1": 4,
+      "teamId": 200,
+      "spell2": 12,
+      "gameMode": "CLASSIC",
+      "mapId": 11,
+      "level": 30,
+      "invalid": false,
+      "subType": "RANKED_SOLO_5x5",
+      "createDate": 1476634144017,
+      "championId": 1
+    },
+    {
+      "fellowPlayers": [
+        {
+          "championId": 24,
+          "teamId": 100,
+          "summonerId": 44218711
+        },
+        {
+          "championId": 245,
+          "teamId": 200,
+          "summonerId": 58479149
+        },
+        {
+          "championId": 412,
+          "teamId": 100,
+          "summonerId": 39312381
+        },
+        {
+          "championId": 222,
+          "teamId": 100,
+          "summonerId": 72780749
+        },
+        {
+          "championId": 266,
+          "teamId": 200,
+          "summonerId": 57197103
+        },
+        {
+          "championId": 202,
+          "teamId": 200,
+          "summonerId": 60102236
+        },
+        {
+          "championId": 26,
+          "teamId": 200,
+          "summonerId": 81056875
+        },
+        {
+          "championId": 11,
+          "teamId": 200,
+          "summonerId": 77358564
+        },
+        {
+          "championId": 126,
+          "teamId": 100,
+          "summonerId": 79638897
+        }
+      ],
+      "gameType": "MATCHED_GAME",
+      "stats": {
+        "totalDamageDealtToChampions": 19478,
+        "item2": 3027,
+        "goldEarned": 10093,
+        "item1": 1011,
+        "wardPlaced": 6,
+        "item0": 3165,
+        "totalDamageTaken": 20084,
+        "trueDamageDealtPlayer": 180,
+        "physicalDamageDealtPlayer": 8754,
+        "trueDamageDealtToChampions": 160,
+        "killingSprees": 2,
+        "playerRole": 4,
+        "totalUnitsHealed": 1,
+        "playerPosition": 2,
+        "level": 14,
+        "doubleKills": 2,
+        "neutralMinionsKilledYourJungle": 2,
+        "totalDamageDealtToBuildings": 1000,
+        "magicDamageDealtToChampions": 18068,
+        "turretsKilled": 1,
+        "magicDamageDealtPlayer": 82298,
+        "assists": 9,
+        "magicDamageTaken": 8663,
+        "numDeaths": 9,
+        "totalTimeCrowdControlDealt": 133,
+        "largestMultiKill": 2,
+        "physicalDamageTaken": 10896,
+        "team": 100,
+        "win": false,
+        "totalDamageDealt": 91232,
+        "largestKillingSpree": 5,
+        "totalHeal": 1502,
+        "item4": 1058,
+        "item3": 3117,
+        "item6": 3340,
+        "item5": 1052,
+        "minionsKilled": 96,
+        "timePlayed": 1690,
+        "physicalDamageDealtToChampions": 1250,
+        "championsKilled": 9,
+        "trueDamageTaken": 525,
+        "goldSpent": 10635,
+        "neutralMinionsKilled": 2
+      },
+      "gameId": 2888364921,
+      "ipEarned": 55,
+      "spell1": 4,
+      "teamId": 100,
+      "spell2": 12,
+      "gameMode": "CLASSIC",
+      "mapId": 11,
+      "level": 30,
+      "invalid": false,
+      "subType": "RANKED_SOLO_5x5",
+      "createDate": 1476631715108,
+      "championId": 136
+    },
+    {
+      "fellowPlayers": [
+        {
+          "championId": 268,
+          "teamId": 200,
+          "summonerId": 69086931
+        },
+        {
+          "championId": 80,
+          "teamId": 100,
+          "summonerId": 67166859
+        },
+        {
+          "championId": 245,
+          "teamId": 200,
+          "summonerId": 53297595
+        },
+        {
+          "championId": 202,
+          "teamId": 200,
+          "summonerId": 72052027
+        },
+        {
+          "championId": 25,
+          "teamId": 200,
+          "summonerId": 79301436
+        },
+        {
+          "championId": 99,
+          "teamId": 100,
+          "summonerId": 67317358
+        },
+        {
+          "championId": 222,
+          "teamId": 100,
+          "summonerId": 31610218
+        },
+        {
+          "championId": 102,
+          "teamId": 100,
+          "summonerId": 65287113
+        },
+        {
+          "championId": 86,
+          "teamId": 200,
+          "summonerId": 75267665
+        }
+      ],
+      "gameType": "MATCHED_GAME",
+      "stats": {
+        "totalDamageDealtToChampions": 61789,
+        "item2": 3116,
+        "goldEarned": 20318,
+        "item1": 3158,
+        "wardPlaced": 20,
+        "item0": 3027,
+        "totalDamageTaken": 46226,
+        "trueDamageDealtPlayer": 3910,
+        "physicalDamageDealtPlayer": 14405,
+        "trueDamageDealtToChampions": 1770,
+        "killingSprees": 4,
+        "playerRole": 4,
+        "totalUnitsHealed": 1,
+        "playerPosition": 2,
+        "largestCriticalStrike": 126,
+        "level": 18,
+        "doubleKills": 2,
+        "tripleKills": 2,
+        "neutralMinionsKilledYourJungle": 10,
+        "totalDamageDealtToBuildings": 1010,
+        "magicDamageDealtToChampions": 59147,
+        "turretsKilled": 1,
+        "magicDamageDealtPlayer": 183069,
+        "neutralMinionsKilledEnemyJungle": 2,
+        "assists": 15,
+        "magicDamageTaken": 22644,
+        "numDeaths": 14,
+        "totalTimeCrowdControlDealt": 2063,
+        "largestMultiKill": 4,
+        "physicalDamageTaken": 21453,
+        "team": 100,
+        "win": false,
+        "totalDamageDealt": 201384,
+        "totalHeal": 9131,
+        "largestKillingSpree": 9,
+        "item4": 3165,
+        "item3": 3089,
+        "item6": 3340,
+        "item5": 3285,
+        "minionsKilled": 132,
+        "timePlayed": 2992,
+        "wardKilled": 2,
+        "physicalDamageDealtToChampions": 872,
+        "championsKilled": 22,
+        "trueDamageTaken": 2129,
+        "quadraKills": 1,
+        "goldSpent": 18700,
+        "neutralMinionsKilled": 12
+      },
+      "gameId": 2886964113,
+      "ipEarned": 85,
+      "spell1": 4,
+      "teamId": 100,
+      "spell2": 12,
+      "gameMode": "CLASSIC",
+      "mapId": 11,
+      "level": 30,
+      "invalid": false,
+      "subType": "RANKED_SOLO_5x5",
+      "createDate": 1476556016917,
+      "championId": 1
+    },
+    {
+      "fellowPlayers": [
+        {
+          "championId": 222,
+          "teamId": 100,
+          "summonerId": 75601716
+        },
+        {
+          "championId": 11,
+          "teamId": 100,
+          "summonerId": 65739568
+        },
+        {
+          "championId": 157,
+          "teamId": 100,
+          "summonerId": 82651085
+        },
+        {
+          "championId": 90,
+          "teamId": 200,
+          "summonerId": 45577615
+        },
+        {
+          "championId": 24,
+          "teamId": 200,
+          "summonerId": 70728454
+        },
+        {
+          "championId": 20,
+          "teamId": 200,
+          "summonerId": 88266966
+        },
+        {
+          "championId": 412,
+          "teamId": 200,
+          "summonerId": 61137481
+        },
+        {
+          "championId": 238,
+          "teamId": 100,
+          "summonerId": 52684683
+        },
+        {
+          "championId": 236,
+          "teamId": 200,
+          "summonerId": 32091586
+        }
+      ],
+      "gameType": "MATCHED_GAME",
+      "stats": {
+        "totalDamageDealtToChampions": 44693,
+        "item2": 3117,
+        "goldEarned": 15599,
+        "item1": 3151,
+        "wardPlaced": 30,
+        "totalDamageTaken": 37264,
+        "item0": 2301,
+        "physicalDamageDealtPlayer": 10483,
+        "killingSprees": 1,
+        "playerRole": 2,
+        "totalUnitsHealed": 1,
+        "playerPosition": 4,
+        "level": 16,
+        "neutralMinionsKilledYourJungle": 3,
+        "totalDamageDealtToBuildings": 1286,
+        "magicDamageDealtToChampions": 42969,
+        "turretsKilled": 1,
+        "magicDamageDealtPlayer": 115017,
+        "neutralMinionsKilledEnemyJungle": 1,
+        "assists": 19,
+        "magicDamageTaken": 12466,
+        "numDeaths": 9,
+        "totalTimeCrowdControlDealt": 1366,
+        "largestMultiKill": 1,
+        "physicalDamageTaken": 24109,
+        "team": 100,
+        "win": false,
+        "totalDamageDealt": 125501,
+        "largestKillingSpree": 2,
+        "totalHeal": 2811,
+        "item4": 3116,
+        "item3": 3027,
+        "item6": 3340,
+        "item5": 3108,
+        "minionsKilled": 77,
+        "timePlayed": 2645,
+        "wardKilled": 1,
+        "physicalDamageDealtToChampions": 1724,
+        "championsKilled": 5,
+        "trueDamageTaken": 688,
+        "goldSpent": 13350,
+        "neutralMinionsKilled": 4
+      },
+      "gameId": 2886847225,
+      "ipEarned": 78,
+      "spell1": 4,
+      "teamId": 100,
+      "spell2": 3,
+      "gameMode": "CLASSIC",
+      "mapId": 11,
+      "level": 30,
+      "invalid": false,
+      "subType": "RANKED_SOLO_5x5",
+      "createDate": 1476551011056,
+      "championId": 25
+    },
+    {
+      "fellowPlayers": [
+        {
+          "championId": 268,
+          "teamId": 200,
+          "summonerId": 70730831
+        },
+        {
+          "championId": 51,
+          "teamId": 200,
+          "summonerId": 42112430
+        },
+        {
+          "championId": 113,
+          "teamId": 200,
+          "summonerId": 23091561
+        },
+        {
+          "championId": 126,
+          "teamId": 100,
+          "summonerId": 77660257
+        },
+        {
+          "championId": 39,
+          "teamId": 200,
+          "summonerId": 89148342
+        },
+        {
+          "championId": 14,
+          "teamId": 100,
+          "summonerId": 38338664
+        },
+        {
+          "championId": 23,
+          "teamId": 100,
+          "summonerId": 31722587
+        },
+        {
+          "championId": 21,
+          "teamId": 100,
+          "summonerId": 49817180
+        },
+        {
+          "championId": 35,
+          "teamId": 100,
+          "summonerId": 83160015
+        }
+      ],
+      "gameType": "MATCHED_GAME",
+      "stats": {
+        "totalDamageDealtToChampions": 12269,
+        "goldEarned": 9215,
+        "item2": 3117,
+        "item1": 3157,
+        "wardPlaced": 19,
+        "totalDamageTaken": 22810,
+        "item0": 2301,
+        "physicalDamageDealtPlayer": 8685,
+        "visionWardsBought": 2,
+        "playerRole": 2,
+        "totalUnitsHealed": 1,
+        "playerPosition": 4,
+        "level": 14,
+        "magicDamageDealtToChampions": 11174,
+        "magicDamageDealtPlayer": 41149,
+        "assists": 6,
+        "magicDamageTaken": 4692,
+        "numDeaths": 10,
+        "totalTimeCrowdControlDealt": 181,
+        "largestMultiKill": 1,
+        "physicalDamageTaken": 17947,
+        "win": false,
+        "team": 200,
+        "totalDamageDealt": 49835,
+        "totalHeal": 947,
+        "item4": 1052,
+        "item3": 1011,
+        "item6": 3340,
+        "item5": 2043,
+        "minionsKilled": 38,
+        "timePlayed": 1906,
+        "wardKilled": 1,
+        "physicalDamageDealtToChampions": 1095,
+        "championsKilled": 3,
+        "trueDamageTaken": 170,
+        "goldSpent": 8535
+      },
+      "gameId": 2885241750,
+      "ipEarned": 60,
+      "spell1": 4,
+      "teamId": 200,
+      "spell2": 3,
+      "gameMode": "CLASSIC",
+      "mapId": 11,
+      "level": 30,
+      "invalid": false,
+      "subType": "RANKED_SOLO_5x5",
+      "createDate": 1476464345642,
+      "championId": 25
+    },
+    {
+      "fellowPlayers": [
+        {
+          "championId": 78,
+          "teamId": 100,
+          "summonerId": 56570032
+        },
+        {
+          "championId": 238,
+          "teamId": 100,
+          "summonerId": 52458609
+        },
+        {
+          "championId": 157,
+          "teamId": 200,
+          "summonerId": 51648120
+        },
+        {
+          "championId": 107,
+          "teamId": 200,
+          "summonerId": 45450790
+        },
+        {
+          "championId": 134,
+          "teamId": 200,
+          "summonerId": 85880776
+        },
+        {
+          "championId": 21,
+          "teamId": 100,
+          "summonerId": 71147218
+        },
+        {
+          "championId": 84,
+          "teamId": 100,
+          "summonerId": 32270720
+        },
+        {
+          "championId": 44,
+          "teamId": 200,
+          "summonerId": 19352794
+        },
+        {
+          "championId": 22,
+          "teamId": 200,
+          "summonerId": 58678097
+        }
+      ],
+      "gameType": "MATCHED_GAME",
+      "stats": {
+        "totalDamageDealtToChampions": 9412,
+        "item2": 1011,
+        "goldEarned": 10858,
+        "item1": 3060,
+        "wardPlaced": 21,
+        "totalDamageTaken": 13737,
+        "item0": 2301,
+        "trueDamageDealtPlayer": 222,
+        "physicalDamageDealtPlayer": 9646,
+        "killingSprees": 1,
+        "playerRole": 2,
+        "totalUnitsHealed": 1,
+        "playerPosition": 4,
+        "level": 15,
+        "neutralMinionsKilledYourJungle": 3,
+        "totalDamageDealtToBuildings": 1057,
+        "magicDamageDealtToChampions": 7658,
+        "turretsKilled": 1,
+        "magicDamageDealtPlayer": 47333,
+        "neutralMinionsKilledEnemyJungle": 1,
+        "assists": 18,
+        "magicDamageTaken": 3912,
+        "numDeaths": 3,
+        "totalTimeCrowdControlDealt": 144,
+        "largestMultiKill": 1,
+        "physicalDamageTaken": 9758,
+        "team": 100,
+        "win": true,
+        "totalDamageDealt": 57202,
+        "largestKillingSpree": 3,
+        "totalHeal": 68,
+        "item4": 1052,
+        "item3": 3117,
+        "item6": 3340,
+        "item5": 1058,
+        "minionsKilled": 49,
+        "timePlayed": 1756,
+        "physicalDamageDealtToChampions": 1753,
+        "championsKilled": 3,
+        "trueDamageTaken": 66,
+        "goldSpent": 8985,
+        "neutralMinionsKilled": 4
+      },
+      "gameId": 2885174136,
+      "ipEarned": 85,
+      "spell1": 4,
+      "teamId": 100,
+      "spell2": 3,
+      "gameMode": "CLASSIC",
+      "mapId": 11,
+      "level": 30,
+      "invalid": false,
+      "subType": "RANKED_SOLO_5x5",
+      "createDate": 1476461958904,
+      "championId": 25
+    },
+    {
+      "fellowPlayers": [
+        {
+          "championId": 150,
+          "teamId": 200,
+          "summonerId": 46476958
+        },
+        {
+          "championId": 1,
+          "teamId": 100,
+          "summonerId": 73577150
+        },
+        {
+          "championId": 64,
+          "teamId": 200,
+          "summonerId": 60843195
+        },
+        {
+          "championId": 78,
+          "teamId": 200,
+          "summonerId": 212101
+        },
+        {
+          "championId": 22,
+          "teamId": 200,
+          "summonerId": 91587022
+        },
+        {
+          "championId": 114,
+          "teamId": 100,
+          "summonerId": 20762576
+        },
+        {
+          "championId": 245,
+          "teamId": 200,
+          "summonerId": 66040562
+        },
+        {
+          "championId": 5,
+          "teamId": 100,
+          "summonerId": 19444051
+        },
+        {
+          "championId": 67,
+          "teamId": 100,
+          "summonerId": 39542193
+        }
+      ],
+      "gameType": "MATCHED_GAME",
+      "stats": {
+        "totalDamageDealtToChampions": 15390,
+        "goldEarned": 12773,
+        "item2": 3116,
+        "item1": 3285,
+        "wardPlaced": 25,
+        "totalDamageTaken": 28806,
+        "item0": 2301,
+        "physicalDamageDealtPlayer": 8624,
+        "playerRole": 2,
+        "totalUnitsHealed": 1,
+        "playerPosition": 4,
+        "level": 17,
+        "totalDamageDealtToBuildings": 5751,
+        "magicDamageDealtToChampions": 14362,
+        "turretsKilled": 1,
+        "magicDamageDealtPlayer": 47771,
+        "assists": 24,
+        "magicDamageTaken": 7654,
+        "numDeaths": 9,
+        "totalTimeCrowdControlDealt": 618,
+        "largestMultiKill": 1,
+        "physicalDamageTaken": 20603,
+        "win": true,
+        "team": 100,
+        "totalDamageDealt": 56396,
+        "totalHeal": 1217,
+        "item4": 3801,
+        "item3": 3117,
+        "item6": 3340,
+        "item5": 1052,
+        "minionsKilled": 26,
+        "timePlayed": 2378,
+        "wardKilled": 1,
+        "physicalDamageDealtToChampions": 1028,
+        "championsKilled": 1,
+        "trueDamageTaken": 548,
+        "goldSpent": 10785
+      },
+      "gameId": 2885104848,
+      "ipEarned": 108,
+      "spell1": 4,
+      "teamId": 100,
+      "spell2": 3,
+      "gameMode": "CLASSIC",
+      "mapId": 11,
+      "level": 30,
+      "invalid": false,
+      "subType": "RANKED_SOLO_5x5",
+      "createDate": 1476459722191,
+      "championId": 25
+    }
+  ],
+  "champions": [
+    {
+      "id": 266,
+      "title": "La Espada de los Oscuros",
+      "name": "Aatrox",
+      "key": "Aatrox",
+      "info": {
+        "defense": 4,
+        "magic": 3,
+        "difficulty": 4,
+        "attack": 8
+      }
+    },
+    {
+      "id": 412,
+      "title": "El Carcelero Implacable",
+      "name": "Thresh",
+      "key": "Thresh",
+      "info": {
+        "defense": 6,
+        "magic": 6,
+        "difficulty": 7,
+        "attack": 5
+      }
+    },
+    {
+      "id": 23,
+      "title": "El Rey Bárbaro",
+      "name": "Tryndamere",
+      "key": "Tryndamere",
+      "info": {
+        "defense": 5,
+        "magic": 2,
+        "difficulty": 5,
+        "attack": 10
+      }
+    },
+    {
+      "id": 79,
+      "title": "El Camorrista",
+      "name": "Gragas",
+      "key": "Gragas",
+      "info": {
+        "defense": 7,
+        "magic": 6,
+        "difficulty": 5,
+        "attack": 4
+      }
+    },
+    {
+      "id": 69,
+      "title": "El Abrazo de la Serpiente",
+      "name": "Cassiopeia",
+      "key": "Cassiopeia",
+      "info": {
+        "defense": 3,
+        "magic": 9,
+        "difficulty": 10,
+        "attack": 2
+      }
+    },
+    {
+      "id": 136,
+      "title": "El Forjador de Estrellas",
+      "name": "Aurelion Sol",
+      "key": "AurelionSol",
+      "info": {
+        "defense": 3,
+        "magic": 8,
+        "difficulty": 7,
+        "attack": 2
+      }
+    },
+    {
+      "id": 13,
+      "title": "El Hechicero Rúnico",
+      "name": "Ryze",
+      "key": "Ryze",
+      "info": {
+        "defense": 2,
+        "magic": 10,
+        "difficulty": 7,
+        "attack": 2
+      }
+    },
+    {
+      "id": 78,
+      "title": "La Guardiana del Martillo",
+      "name": "Poppy",
+      "key": "Poppy",
+      "info": {
+        "defense": 7,
+        "magic": 2,
+        "difficulty": 6,
+        "attack": 6
+      }
+    },
+    {
+      "id": 14,
+      "title": "El Coloso no Muerto",
+      "name": "Sion",
+      "key": "Sion",
+      "info": {
+        "defense": 9,
+        "magic": 3,
+        "difficulty": 5,
+        "attack": 5
+      }
+    },
+    {
+      "id": 1,
+      "title": "La Hija de la Oscuridad",
+      "name": "Annie",
+      "key": "Annie",
+      "info": {
+        "defense": 3,
+        "magic": 10,
+        "difficulty": 6,
+        "attack": 2
+      }
+    },
+    {
+      "id": 202,
+      "title": "El Virtuoso",
+      "name": "Jhin",
+      "key": "Jhin",
+      "info": {
+        "defense": 2,
+        "magic": 6,
+        "difficulty": 6,
+        "attack": 10
+      }
+    },
+    {
+      "id": 43,
+      "title": "La Iluminada",
+      "name": "Karma",
+      "key": "Karma",
+      "info": {
+        "defense": 7,
+        "magic": 8,
+        "difficulty": 5,
+        "attack": 1
+      }
+    },
+    {
+      "id": 111,
+      "title": "El Titán Abisal",
+      "name": "Nautilus",
+      "key": "Nautilus",
+      "info": {
+        "defense": 6,
+        "magic": 6,
+        "difficulty": 6,
+        "attack": 4
+      }
+    },
+    {
+      "id": 240,
+      "title": "El Jinete Cascarrabias",
+      "name": "Kled",
+      "key": "Kled",
+      "info": {
+        "defense": 2,
+        "magic": 2,
+        "difficulty": 7,
+        "attack": 8
+      }
+    },
+    {
+      "id": 99,
+      "title": "La Dama Luminosa",
+      "name": "Lux",
+      "key": "Lux",
+      "info": {
+        "defense": 4,
+        "magic": 9,
+        "difficulty": 5,
+        "attack": 2
+      }
+    },
+    {
+      "id": 103,
+      "title": "La Mujer Zorro de nueve Colas",
+      "name": "Ahri",
+      "key": "Ahri",
+      "info": {
+        "defense": 4,
+        "magic": 8,
+        "difficulty": 5,
+        "attack": 3
+      }
+    },
+    {
+      "id": 2,
+      "title": "El Berserker",
+      "name": "Olaf",
+      "key": "Olaf",
+      "info": {
+        "defense": 5,
+        "magic": 3,
+        "difficulty": 3,
+        "attack": 9
+      }
+    },
+    {
+      "id": 112,
+      "title": "El Heraldo de las Máquinas",
+      "name": "Viktor",
+      "key": "Viktor",
+      "info": {
+        "defense": 4,
+        "magic": 10,
+        "difficulty": 9,
+        "attack": 2
+      }
+    },
+    {
+      "id": 34,
+      "title": "La Criofénix",
+      "name": "Anivia",
+      "key": "Anivia",
+      "info": {
+        "defense": 4,
+        "magic": 10,
+        "difficulty": 10,
+        "attack": 1
+      }
+    },
+    {
+      "id": 27,
+      "title": "El Químico Loco",
+      "name": "Singed",
+      "key": "Singed",
+      "info": {
+        "defense": 8,
+        "magic": 7,
+        "difficulty": 5,
+        "attack": 4
+      }
+    },
+    {
+      "id": 86,
+      "title": "El Poder de Demacia",
+      "name": "Garen",
+      "key": "Garen",
+      "info": {
+        "defense": 7,
+        "magic": 1,
+        "difficulty": 5,
+        "attack": 7
+      }
+    },
+    {
+      "id": 127,
+      "title": "La Bruja de Hielo",
+      "name": "Lissandra",
+      "key": "Lissandra",
+      "info": {
+        "defense": 5,
+        "magic": 8,
+        "difficulty": 6,
+        "attack": 2
+      }
+    },
+    {
+      "id": 57,
+      "title": "El Treant Retorcido",
+      "name": "Maokai",
+      "key": "Maokai",
+      "info": {
+        "defense": 8,
+        "magic": 6,
+        "difficulty": 3,
+        "attack": 3
+      }
+    },
+    {
+      "id": 25,
+      "title": "El Ángel Caído",
+      "name": "Morgana",
+      "key": "Morgana",
+      "info": {
+        "defense": 6,
+        "magic": 8,
+        "difficulty": 1,
+        "attack": 1
+      }
+    },
+    {
+      "id": 28,
+      "title": "La Hacedora de Viudas",
+      "name": "Evelynn",
+      "key": "Evelynn",
+      "info": {
+        "defense": 2,
+        "magic": 7,
+        "difficulty": 10,
+        "attack": 4
+      }
+    },
+    {
+      "id": 105,
+      "title": "El Gamberro de las Mareas",
+      "name": "Fizz",
+      "key": "Fizz",
+      "info": {
+        "defense": 4,
+        "magic": 7,
+        "difficulty": 6,
+        "attack": 6
+      }
+    },
+    {
+      "id": 74,
+      "title": "El Inventor Venerado",
+      "name": "Heimerdinger",
+      "key": "Heimerdinger",
+      "info": {
+        "defense": 6,
+        "magic": 8,
+        "difficulty": 8,
+        "attack": 2
+      }
+    },
+    {
+      "id": 238,
+      "title": "El Maestro de las Sombras",
+      "name": "Zed",
+      "key": "Zed",
+      "info": {
+        "defense": 2,
+        "magic": 1,
+        "difficulty": 7,
+        "attack": 9
+      }
+    },
+    {
+      "id": 68,
+      "title": "La Amenaza Mecánica",
+      "name": "Rumble",
+      "key": "Rumble",
+      "info": {
+        "defense": 6,
+        "magic": 8,
+        "difficulty": 10,
+        "attack": 3
+      }
+    },
+    {
+      "id": 82,
+      "title": "La Pesadilla de Hierro",
+      "name": "Mordekaiser",
+      "key": "Mordekaiser",
+      "info": {
+        "defense": 6,
+        "magic": 7,
+        "difficulty": 4,
+        "attack": 4
+      }
+    },
+    {
+      "id": 37,
+      "title": "La Virtuosa de las Cuerdas",
+      "name": "Sona",
+      "key": "Sona",
+      "info": {
+        "defense": 2,
+        "magic": 8,
+        "difficulty": 4,
+        "attack": 5
+      }
+    },
+    {
+      "id": 96,
+      "title": "La Boca del Abismo",
+      "name": "Kog'Maw",
+      "key": "KogMaw",
+      "info": {
+        "defense": 2,
+        "magic": 5,
+        "difficulty": 6,
+        "attack": 8
+      }
+    },
+    {
+      "id": 55,
+      "title": "La Cuchilla Siniestra",
+      "name": "Katarina",
+      "key": "Katarina",
+      "info": {
+        "defense": 3,
+        "magic": 9,
+        "difficulty": 8,
+        "attack": 4
+      }
+    },
+    {
+      "id": 117,
+      "title": "El Hada Hechicera",
+      "name": "Lulu",
+      "key": "Lulu",
+      "info": {
+        "defense": 5,
+        "magic": 7,
+        "difficulty": 5,
+        "attack": 4
+      }
+    },
+    {
+      "id": 22,
+      "title": "La Arquera de Hielo",
+      "name": "Ashe",
+      "key": "Ashe",
+      "info": {
+        "defense": 3,
+        "magic": 2,
+        "difficulty": 4,
+        "attack": 7
+      }
+    },
+    {
+      "id": 30,
+      "title": "La Voz de la Muerte",
+      "name": "Karthus",
+      "key": "Karthus",
+      "info": {
+        "defense": 2,
+        "magic": 10,
+        "difficulty": 7,
+        "attack": 2
+      }
+    },
+    {
+      "id": 12,
+      "title": "El Minotauro",
+      "name": "Alistar",
+      "key": "Alistar",
+      "info": {
+        "defense": 9,
+        "magic": 5,
+        "difficulty": 7,
+        "attack": 6
+      }
+    },
+    {
+      "id": 122,
+      "title": "La Mano de Noxus",
+      "name": "Darius",
+      "key": "Darius",
+      "info": {
+        "defense": 5,
+        "magic": 1,
+        "difficulty": 2,
+        "attack": 9
+      }
+    },
+    {
+      "id": 67,
+      "title": "La Cazadora Noctívaga",
+      "name": "Vayne",
+      "key": "Vayne",
+      "info": {
+        "defense": 1,
+        "magic": 1,
+        "difficulty": 8,
+        "attack": 10
+      }
+    },
+    {
+      "id": 110,
+      "title": "La Flecha del Castigo",
+      "name": "Varus",
+      "key": "Varus",
+      "info": {
+        "defense": 3,
+        "magic": 4,
+        "difficulty": 2,
+        "attack": 7
+      }
+    },
+    {
+      "id": 77,
+      "title": "El Caminante Espiritual",
+      "name": "Udyr",
+      "key": "Udyr",
+      "info": {
+        "defense": 7,
+        "magic": 4,
+        "difficulty": 7,
+        "attack": 8
+      }
+    },
+    {
+      "id": 89,
+      "title": "El Amanecer Radiante",
+      "name": "Leona",
+      "key": "Leona",
+      "info": {
+        "defense": 8,
+        "magic": 3,
+        "difficulty": 4,
+        "attack": 4
+      }
+    },
+    {
+      "id": 126,
+      "title": "El Defensor del Mañana",
+      "name": "Jayce",
+      "key": "Jayce",
+      "info": {
+        "defense": 4,
+        "magic": 3,
+        "difficulty": 7,
+        "attack": 8
+      }
+    },
+    {
+      "id": 134,
+      "title": "La Soberana Oscura",
+      "name": "Syndra",
+      "key": "Syndra",
+      "info": {
+        "defense": 3,
+        "magic": 9,
+        "difficulty": 8,
+        "attack": 2
+      }
+    },
+    {
+      "id": 80,
+      "title": "El Artesano de la Guerra",
+      "name": "Pantheon",
+      "key": "Pantheon",
+      "info": {
+        "defense": 4,
+        "magic": 3,
+        "difficulty": 4,
+        "attack": 9
+      }
+    },
+    {
+      "id": 92,
+      "title": "La Exiliada",
+      "name": "Riven",
+      "key": "Riven",
+      "info": {
+        "defense": 5,
+        "magic": 1,
+        "difficulty": 8,
+        "attack": 8
+      }
+    },
+    {
+      "id": 121,
+      "title": "El Saqueador del Vacío",
+      "name": "Kha'Zix",
+      "key": "Khazix",
+      "info": {
+        "defense": 4,
+        "magic": 3,
+        "difficulty": 6,
+        "attack": 9
+      }
+    },
+    {
+      "id": 42,
+      "title": "El Bombardero Osado",
+      "name": "Corki",
+      "key": "Corki",
+      "info": {
+        "defense": 3,
+        "magic": 6,
+        "difficulty": 6,
+        "attack": 8
+      }
+    },
+    {
+      "id": 268,
+      "title": "El Emperador de las Arenas",
+      "name": "Azir",
+      "key": "Azir",
+      "info": {
+        "defense": 3,
+        "magic": 8,
+        "difficulty": 9,
+        "attack": 6
+      }
+    },
+    {
+      "id": 51,
+      "title": "La Sheriff de Piltover",
+      "name": "Caitlyn",
+      "key": "Caitlyn",
+      "info": {
+        "defense": 2,
+        "magic": 2,
+        "difficulty": 6,
+        "attack": 8
+      }
+    },
+    {
+      "id": 76,
+      "title": "La Cazadora Bestial",
+      "name": "Nidalee",
+      "key": "Nidalee",
+      "info": {
+        "defense": 4,
+        "magic": 7,
+        "difficulty": 8,
+        "attack": 5
+      }
+    },
+    {
+      "id": 85,
+      "title": "El Corazón de la Tempestad",
+      "name": "Kennen",
+      "key": "Kennen",
+      "info": {
+        "defense": 4,
+        "magic": 7,
+        "difficulty": 4,
+        "attack": 6
+      }
+    },
+    {
+      "id": 3,
+      "title": "La Tristeza del Guardián",
+      "name": "Galio",
+      "key": "Galio",
+      "info": {
+        "defense": 7,
+        "magic": 6,
+        "difficulty": 3,
+        "attack": 3
+      }
+    },
+    {
+      "id": 45,
+      "title": "El Pequeño Maestro del Mal",
+      "name": "Veigar",
+      "key": "Veigar",
+      "info": {
+        "defense": 2,
+        "magic": 10,
+        "difficulty": 7,
+        "attack": 2
+      }
+    },
+    {
+      "id": 432,
+      "title": "El Guardián Errante",
+      "name": "Bardo",
+      "key": "Bard",
+      "info": {
+        "defense": 4,
+        "magic": 5,
+        "difficulty": 9,
+        "attack": 4
+      }
+    },
+    {
+      "id": 150,
+      "title": "El Eslabón Perdido",
+      "name": "Gnar",
+      "key": "Gnar",
+      "info": {
+        "defense": 5,
+        "magic": 5,
+        "difficulty": 8,
+        "attack": 6
+      }
+    },
+    {
+      "id": 90,
+      "title": "El Profeta del Vacío",
+      "name": "Malzahar",
+      "key": "Malzahar",
+      "info": {
+        "defense": 2,
+        "magic": 9,
+        "difficulty": 6,
+        "attack": 2
+      }
+    },
+    {
+      "id": 104,
+      "title": "El Forajido",
+      "name": "Graves",
+      "key": "Graves",
+      "info": {
+        "defense": 5,
+        "magic": 3,
+        "difficulty": 3,
+        "attack": 8
+      }
+    },
+    {
+      "id": 254,
+      "title": "La Agente de Piltover",
+      "name": "Vi",
+      "key": "Vi",
+      "info": {
+        "defense": 5,
+        "magic": 3,
+        "difficulty": 4,
+        "attack": 8
+      }
+    },
+    {
+      "id": 10,
+      "title": "La Justiciera",
+      "name": "Kayle",
+      "key": "Kayle",
+      "info": {
+        "defense": 6,
+        "magic": 7,
+        "difficulty": 7,
+        "attack": 6
+      }
+    },
+    {
+      "id": 39,
+      "title": "La Voluntad de las Cuchillas",
+      "name": "Irelia",
+      "key": "Irelia",
+      "info": {
+        "defense": 4,
+        "magic": 5,
+        "difficulty": 5,
+        "attack": 7
+      }
+    },
+    {
+      "id": 64,
+      "title": "El Monje Ciego",
+      "name": "Lee Sin",
+      "key": "LeeSin",
+      "info": {
+        "defense": 5,
+        "magic": 3,
+        "difficulty": 6,
+        "attack": 8
+      }
+    },
+    {
+      "id": 420,
+      "title": "La Sacerdotisa del Kraken",
+      "name": "Illaoi",
+      "key": "Illaoi",
+      "info": {
+        "defense": 6,
+        "magic": 3,
+        "difficulty": 4,
+        "attack": 8
+      }
+    },
+    {
+      "id": 60,
+      "title": "La Reina de las Arañas",
+      "name": "Elise",
+      "key": "Elise",
+      "info": {
+        "defense": 5,
+        "magic": 7,
+        "difficulty": 9,
+        "attack": 6
+      }
+    },
+    {
+      "id": 106,
+      "title": "El Rugir del Trueno",
+      "name": "Volibear",
+      "key": "Volibear",
+      "info": {
+        "defense": 7,
+        "magic": 4,
+        "difficulty": 3,
+        "attack": 7
+      }
+    },
+    {
+      "id": 20,
+      "title": "El Jinete de Yetis",
+      "name": "Nunu",
+      "key": "Nunu",
+      "info": {
+        "defense": 6,
+        "magic": 7,
+        "difficulty": 4,
+        "attack": 4
+      }
+    },
+    {
+      "id": 4,
+      "title": "El Maestro de las Cartas",
+      "name": "Twisted Fate",
+      "key": "TwistedFate",
+      "info": {
+        "defense": 2,
+        "magic": 6,
+        "difficulty": 9,
+        "attack": 6
+      }
+    },
+    {
+      "id": 24,
+      "title": "El Maestro de Armas",
+      "name": "Jax",
+      "key": "Jax",
+      "info": {
+        "defense": 5,
+        "magic": 7,
+        "difficulty": 5,
+        "attack": 7
+      }
+    },
+    {
+      "id": 102,
+      "title": "La Medio Dragón",
+      "name": "Shyvana",
+      "key": "Shyvana",
+      "info": {
+        "defense": 6,
+        "magic": 3,
+        "difficulty": 4,
+        "attack": 8
+      }
+    },
+    {
+      "id": 429,
+      "title": "El Espíritu de la Venganza",
+      "name": "Kalista",
+      "key": "Kalista",
+      "info": {
+        "defense": 2,
+        "magic": 4,
+        "difficulty": 7,
+        "attack": 8
+      }
+    },
+    {
+      "id": 36,
+      "title": "El Loco de Zaun",
+      "name": "Dr. Mundo",
+      "key": "DrMundo",
+      "info": {
+        "defense": 7,
+        "magic": 6,
+        "difficulty": 5,
+        "attack": 5
+      }
+    },
+    {
+      "id": 427,
+      "title": "El Padre Arborescente",
+      "name": "Ivern",
+      "key": "Ivern",
+      "info": {
+        "defense": 5,
+        "magic": 7,
+        "difficulty": 7,
+        "attack": 3
+      }
+    },
+    {
+      "id": 131,
+      "title": "El Desdén de la Luna",
+      "name": "Diana",
+      "key": "Diana",
+      "info": {
+        "defense": 6,
+        "magic": 8,
+        "difficulty": 4,
+        "attack": 7
+      }
+    },
+    {
+      "id": 223,
+      "title": "El Rey del Río",
+      "name": "Tahm Kench",
+      "key": "TahmKench",
+      "info": {
+        "defense": 9,
+        "magic": 6,
+        "difficulty": 5,
+        "attack": 3
+      }
+    },
+    {
+      "id": 63,
+      "title": "La Venganza Ardiente",
+      "name": "Brand",
+      "key": "Brand",
+      "info": {
+        "defense": 2,
+        "magic": 9,
+        "difficulty": 4,
+        "attack": 2
+      }
+    },
+    {
+      "id": 113,
+      "title": "La Cólera del Invierno",
+      "name": "Sejuani",
+      "key": "Sejuani",
+      "info": {
+        "defense": 7,
+        "magic": 6,
+        "difficulty": 4,
+        "attack": 5
+      }
+    },
+    {
+      "id": 8,
+      "title": "El Segador Carmesí",
+      "name": "Vladimir",
+      "key": "Vladimir",
+      "info": {
+        "defense": 6,
+        "magic": 8,
+        "difficulty": 7,
+        "attack": 2
+      }
+    },
+    {
+      "id": 154,
+      "title": "El Arma Secreta",
+      "name": "Zac",
+      "key": "Zac",
+      "info": {
+        "defense": 7,
+        "magic": 7,
+        "difficulty": 8,
+        "attack": 3
+      }
+    },
+    {
+      "id": 421,
+      "title": "La Amenaza Subterránea",
+      "name": "Rek'Sai",
+      "key": "RekSai",
+      "info": {
+        "defense": 5,
+        "magic": 2,
+        "difficulty": 3,
+        "attack": 8
+      }
+    },
+    {
+      "id": 133,
+      "title": "Las Alas de Demacia",
+      "name": "Quinn",
+      "key": "Quinn",
+      "info": {
+        "defense": 4,
+        "magic": 2,
+        "difficulty": 5,
+        "attack": 9
+      }
+    },
+    {
+      "id": 84,
+      "title": "El Puño de la Sombra",
+      "name": "Akali",
+      "key": "Akali",
+      "info": {
+        "defense": 3,
+        "magic": 8,
+        "difficulty": 7,
+        "attack": 5
+      }
+    },
+    {
+      "id": 163,
+      "title": "La Tejedora de Piedra",
+      "name": "Taliyah",
+      "key": "Taliyah",
+      "info": {
+        "defense": 7,
+        "magic": 8,
+        "difficulty": 5,
+        "attack": 1
+      }
+    },
+    {
+      "id": 18,
+      "title": "La Artillera Yordle",
+      "name": "Tristana",
+      "key": "Tristana",
+      "info": {
+        "defense": 3,
+        "magic": 5,
+        "difficulty": 4,
+        "attack": 9
+      }
+    },
+    {
+      "id": 120,
+      "title": "La Sombra de la Guerra",
+      "name": "Hecarim",
+      "key": "Hecarim",
+      "info": {
+        "defense": 6,
+        "magic": 4,
+        "difficulty": 6,
+        "attack": 8
+      }
+    },
+    {
+      "id": 15,
+      "title": "La Señora de la Batalla",
+      "name": "Sivir",
+      "key": "Sivir",
+      "info": {
+        "defense": 3,
+        "magic": 1,
+        "difficulty": 4,
+        "attack": 9
+      }
+    },
+    {
+      "id": 236,
+      "title": "El Destello Purificador",
+      "name": "Lucian",
+      "key": "Lucian",
+      "info": {
+        "defense": 5,
+        "magic": 3,
+        "difficulty": 6,
+        "attack": 8
+      }
+    },
+    {
+      "id": 107,
+      "title": "El Acechador Orgulloso",
+      "name": "Rengar",
+      "key": "Rengar",
+      "info": {
+        "defense": 4,
+        "magic": 2,
+        "difficulty": 8,
+        "attack": 7
+      }
+    },
+    {
+      "id": 19,
+      "title": "El Cazador Sanguinario",
+      "name": "Warwick",
+      "key": "Warwick",
+      "info": {
+        "defense": 4,
+        "magic": 4,
+        "difficulty": 3,
+        "attack": 7
+      }
+    },
+    {
+      "id": 72,
+      "title": "La Vanguardia de Cristal",
+      "name": "Skarner",
+      "key": "Skarner",
+      "info": {
+        "defense": 6,
+        "magic": 5,
+        "difficulty": 5,
+        "attack": 7
+      }
+    },
+    {
+      "id": 54,
+      "title": "El Fragmento del Monolito",
+      "name": "Malphite",
+      "key": "Malphite",
+      "info": {
+        "defense": 9,
+        "magic": 7,
+        "difficulty": 2,
+        "attack": 5
+      }
+    },
+    {
+      "id": 157,
+      "title": "La Espada sin Honor",
+      "name": "Yasuo",
+      "key": "Yasuo",
+      "info": {
+        "defense": 4,
+        "magic": 4,
+        "difficulty": 10,
+        "attack": 8
+      }
+    },
+    {
+      "id": 101,
+      "title": "El Mago Ascendente",
+      "name": "Xerath",
+      "key": "Xerath",
+      "info": {
+        "defense": 3,
+        "magic": 10,
+        "difficulty": 8,
+        "attack": 1
+      }
+    },
+    {
+      "id": 17,
+      "title": "El Explorador Veloz",
+      "name": "Teemo",
+      "key": "Teemo",
+      "info": {
+        "defense": 3,
+        "magic": 7,
+        "difficulty": 6,
+        "attack": 5
+      }
+    },
+    {
+      "id": 75,
+      "title": "El Guardián de las Arenas",
+      "name": "Nasus",
+      "key": "Nasus",
+      "info": {
+        "defense": 5,
+        "magic": 6,
+        "difficulty": 6,
+        "attack": 7
+      }
+    },
+    {
+      "id": 58,
+      "title": "El Carnicero de las Arenas",
+      "name": "Renekton",
+      "key": "Renekton",
+      "info": {
+        "defense": 5,
+        "magic": 2,
+        "difficulty": 3,
+        "attack": 8
+      }
+    },
+    {
+      "id": 119,
+      "title": "El Ejecutor Glorioso",
+      "name": "Draven",
+      "key": "Draven",
+      "info": {
+        "defense": 3,
+        "magic": 1,
+        "difficulty": 8,
+        "attack": 9
+      }
+    },
+    {
+      "id": 35,
+      "title": "El Bufón Siniestro",
+      "name": "Shaco",
+      "key": "Shaco",
+      "info": {
+        "defense": 4,
+        "magic": 6,
+        "difficulty": 9,
+        "attack": 8
+      }
+    },
+    {
+      "id": 50,
+      "title": "El Maestro Estratega",
+      "name": "Swain",
+      "key": "Swain",
+      "info": {
+        "defense": 6,
+        "magic": 9,
+        "difficulty": 8,
+        "attack": 2
+      }
+    },
+    {
+      "id": 91,
+      "title": "La Sombra de la Espada",
+      "name": "Talon",
+      "key": "Talon",
+      "info": {
+        "defense": 3,
+        "magic": 1,
+        "difficulty": 7,
+        "attack": 9
+      }
+    },
+    {
+      "id": 40,
+      "title": "La Furia de la Tormenta",
+      "name": "Janna",
+      "key": "Janna",
+      "info": {
+        "defense": 5,
+        "magic": 7,
+        "difficulty": 7,
+        "attack": 3
+      }
+    },
+    {
+      "id": 115,
+      "title": "El Experto en Hexplosivos",
+      "name": "Ziggs",
+      "key": "Ziggs",
+      "info": {
+        "defense": 4,
+        "magic": 9,
+        "difficulty": 4,
+        "attack": 2
+      }
+    },
+    {
+      "id": 245,
+      "title": "El Chico que Quebró el Tiempo",
+      "name": "Ekko",
+      "key": "Ekko",
+      "info": {
+        "defense": 3,
+        "magic": 7,
+        "difficulty": 8,
+        "attack": 5
+      }
+    },
+    {
+      "id": 61,
+      "title": "La Dama Mecánica",
+      "name": "Orianna",
+      "key": "Orianna",
+      "info": {
+        "defense": 3,
+        "magic": 9,
+        "difficulty": 7,
+        "attack": 4
+      }
+    },
+    {
+      "id": 114,
+      "title": "La Estocada Excelsa",
+      "name": "Fiora",
+      "key": "Fiora",
+      "info": {
+        "defense": 4,
+        "magic": 2,
+        "difficulty": 3,
+        "attack": 10
+      }
+    },
+    {
+      "id": 9,
+      "title": "El Mensajero de la Muerte",
+      "name": "Fiddlesticks",
+      "key": "FiddleSticks",
+      "info": {
+        "defense": 3,
+        "magic": 9,
+        "difficulty": 9,
+        "attack": 2
+      }
+    },
+    {
+      "id": 31,
+      "title": "El Terror del Vacío",
+      "name": "Cho'Gath",
+      "key": "Chogath",
+      "info": {
+        "defense": 7,
+        "magic": 7,
+        "difficulty": 5,
+        "attack": 3
+      }
+    },
+    {
+      "id": 33,
+      "title": "El Armadurillo",
+      "name": "Rammus",
+      "key": "Rammus",
+      "info": {
+        "defense": 10,
+        "magic": 5,
+        "difficulty": 5,
+        "attack": 4
+      }
+    },
+    {
+      "id": 7,
+      "title": "La Embaucadora",
+      "name": "LeBlanc",
+      "key": "Leblanc",
+      "info": {
+        "defense": 4,
+        "magic": 10,
+        "difficulty": 9,
+        "attack": 1
+      }
+    },
+    {
+      "id": 16,
+      "title": "La Hija de las Estrellas",
+      "name": "Soraka",
+      "key": "Soraka",
+      "info": {
+        "defense": 5,
+        "magic": 7,
+        "difficulty": 3,
+        "attack": 2
+      }
+    },
+    {
+      "id": 26,
+      "title": "El Guardián del Tiempo",
+      "name": "Zilean",
+      "key": "Zilean",
+      "info": {
+        "defense": 5,
+        "magic": 8,
+        "difficulty": 6,
+        "attack": 2
+      }
+    },
+    {
+      "id": 56,
+      "title": "La Pesadilla Eterna",
+      "name": "Nocturne",
+      "key": "Nocturne",
+      "info": {
+        "defense": 5,
+        "magic": 2,
+        "difficulty": 4,
+        "attack": 9
+      }
+    },
+    {
+      "id": 222,
+      "title": "La Bala Perdida",
+      "name": "Jinx",
+      "key": "Jinx",
+      "info": {
+        "defense": 2,
+        "magic": 4,
+        "difficulty": 6,
+        "attack": 9
+      }
+    },
+    {
+      "id": 83,
+      "title": "El Pastor de las Almas Perdidas",
+      "name": "Yorick",
+      "key": "Yorick",
+      "info": {
+        "defense": 6,
+        "magic": 4,
+        "difficulty": 6,
+        "attack": 6
+      }
+    },
+    {
+      "id": 6,
+      "title": "El Orgullo del Verdugo",
+      "name": "Urgot",
+      "key": "Urgot",
+      "info": {
+        "defense": 5,
+        "magic": 3,
+        "difficulty": 8,
+        "attack": 8
+      }
+    },
+    {
+      "id": 203,
+      "title": "Los Cazadores Eternos",
+      "name": "Kindred",
+      "key": "Kindred",
+      "info": {
+        "defense": 2,
+        "magic": 2,
+        "difficulty": 4,
+        "attack": 8
+      }
+    },
+    {
+      "id": 21,
+      "title": "La Cazarrecompensas",
+      "name": "Miss Fortune",
+      "key": "MissFortune",
+      "info": {
+        "defense": 2,
+        "magic": 5,
+        "difficulty": 1,
+        "attack": 8
+      }
+    },
+    {
+      "id": 62,
+      "title": "El Rey Mono",
+      "name": "Wukong",
+      "key": "MonkeyKing",
+      "info": {
+        "defense": 5,
+        "magic": 2,
+        "difficulty": 3,
+        "attack": 8
+      }
+    },
+    {
+      "id": 53,
+      "title": "El Gran Gólem de Vapor",
+      "name": "Blitzcrank",
+      "key": "Blitzcrank",
+      "info": {
+        "defense": 8,
+        "magic": 5,
+        "difficulty": 4,
+        "attack": 4
+      }
+    },
+    {
+      "id": 98,
+      "title": "El Ojo del Crepúsculo",
+      "name": "Shen",
+      "key": "Shen",
+      "info": {
+        "defense": 9,
+        "magic": 3,
+        "difficulty": 4,
+        "attack": 3
+      }
+    },
+    {
+      "id": 201,
+      "title": "El Corazón de Freljord",
+      "name": "Braum",
+      "key": "Braum",
+      "info": {
+        "defense": 9,
+        "magic": 4,
+        "difficulty": 3,
+        "attack": 3
+      }
+    },
+    {
+      "id": 5,
+      "title": "El Senescal de Demacia",
+      "name": "Xin Zhao",
+      "key": "XinZhao",
+      "info": {
+        "defense": 6,
+        "magic": 3,
+        "difficulty": 2,
+        "attack": 8
+      }
+    },
+    {
+      "id": 29,
+      "title": "La Rata Apestada",
+      "name": "Twitch",
+      "key": "Twitch",
+      "info": {
+        "defense": 2,
+        "magic": 3,
+        "difficulty": 6,
+        "attack": 9
+      }
+    },
+    {
+      "id": 11,
+      "title": "El Espadachín Wuju",
+      "name": "Maestro Yi",
+      "key": "MasterYi",
+      "info": {
+        "defense": 4,
+        "magic": 2,
+        "difficulty": 4,
+        "attack": 10
+      }
+    },
+    {
+      "id": 44,
+      "title": "El Escudo de Valoran",
+      "name": "Taric",
+      "key": "Taric",
+      "info": {
+        "defense": 8,
+        "magic": 5,
+        "difficulty": 3,
+        "attack": 4
+      }
+    },
+    {
+      "id": 32,
+      "title": "La Momia Triste",
+      "name": "Amumu",
+      "key": "Amumu",
+      "info": {
+        "defense": 6,
+        "magic": 8,
+        "difficulty": 3,
+        "attack": 2
+      }
+    },
+    {
+      "id": 41,
+      "title": "El Azote de los Mares",
+      "name": "Gangplank",
+      "key": "Gangplank",
+      "info": {
+        "defense": 6,
+        "magic": 4,
+        "difficulty": 9,
+        "attack": 7
+      }
+    },
+    {
+      "id": 48,
+      "title": "El Rey Troll",
+      "name": "Trundle",
+      "key": "Trundle",
+      "info": {
+        "defense": 6,
+        "magic": 2,
+        "difficulty": 5,
+        "attack": 7
+      }
+    },
+    {
+      "id": 38,
+      "title": "El Caminante del Vacío",
+      "name": "Kassadin",
+      "key": "Kassadin",
+      "info": {
+        "defense": 5,
+        "magic": 8,
+        "difficulty": 8,
+        "attack": 3
+      }
+    },
+    {
+      "id": 161,
+      "title": "El Ojo del Vacío",
+      "name": "Vel'Koz",
+      "key": "Velkoz",
+      "info": {
+        "defense": 2,
+        "magic": 10,
+        "difficulty": 8,
+        "attack": 2
+      }
+    },
+    {
+      "id": 143,
+      "title": "La Dama de Espinas",
+      "name": "Zyra",
+      "key": "Zyra",
+      "info": {
+        "defense": 3,
+        "magic": 8,
+        "difficulty": 7,
+        "attack": 4
+      }
+    },
+    {
+      "id": 267,
+      "title": "La Invocadora de Mareas",
+      "name": "Nami",
+      "key": "Nami",
+      "info": {
+        "defense": 3,
+        "magic": 7,
+        "difficulty": 5,
+        "attack": 4
+      }
+    },
+    {
+      "id": 59,
+      "title": "El Ejemplo de Demacia",
+      "name": "Jarvan IV",
+      "key": "JarvanIV",
+      "info": {
+        "defense": 8,
+        "magic": 3,
+        "difficulty": 5,
+        "attack": 6
+      }
+    },
+    {
+      "id": 81,
+      "title": "El Explorador Pródigo",
+      "name": "Ezreal",
+      "key": "Ezreal",
+      "info": {
+        "defense": 2,
+        "magic": 6,
+        "difficulty": 7,
+        "attack": 7
+      }
+    }
+  ]
+}

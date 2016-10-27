@@ -1,0 +1,38 @@
+
+<form (ngSubmit)="onSubmit(f.value)" #f="ngForm">
+    <div class="row">
+        <div class="form-group">
+            <label for="skinId">Id de la skin</label>
+            <input type="number"  
+               id="skinId" class="form-control"
+               placeholder="Put your Skin"  
+               name="skinId" ngModel>  
+        </div>
+
+        <div class="form-group">
+            <label for="championId">Id del campeón</label>
+            <input type="number"  
+               id="championId" class="form-control"
+               placeholder="A qué campeón va dirigida"  
+               name="championId" ngModel>  
+        </div>
+
+        <div class="form-group">
+            <label for="skinName">Nombre de la skin</label>
+            <input type="text"  
+               id="skinName" class="form-control"
+               placeholder="Nombre de la skin"  
+               name="skinName" ngModel>  
+        </div>
+
+        <div class="form-group">
+            <label for="skinUrl">Id:</label>
+            <input type="url"  
+               id="skinUrl" class="form-control"
+               placeholder="URL de la imagen de la skin"  
+               name="skinUrl" ngModel>  
+        </div>
+       
+        <button type="submit" class="btn btn-default" >Añadir</button>
+    </div>
+</form>

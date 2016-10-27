@@ -1,0 +1,7 @@
+<h1>Skins disponibles</h1>
+<div class="row" style="text-align: center">
+    <div *ngFor="let skin of skins" class="col-md-3">
+        <img [attr.src]="skin.skinUrl" [attr.alt]="skin.skinName" /><br />
+        {{skin.skinName}}
+    </div>
+</div>

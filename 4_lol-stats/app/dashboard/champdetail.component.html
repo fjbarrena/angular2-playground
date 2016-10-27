@@ -1,0 +1,20 @@
+<div class="row">
+    <div class="col-md-2">
+        <img [attr.src]="'http://www.lolking.net/images/v2/champions/icons/size100x100/'+champ.id+'.png'" 
+             [attr.alt]="champ.name" />
+    </div>
+
+    <div class="col-md-4">
+        <h1>{{champ.name}}</h1>
+        <h2>{{champ.title}}</h2>
+    </div>
+
+    <div class="col-md-6">
+        <div [attr.class]="'customBar magic-'+champ.info.magic">{{champ.info.magic}}</div>
+        <div [attr.class]="'customBar defense-'+champ.info.defense">{{champ.info.defense}}</div>
+        <div [attr.class]="'customBar attack-'+champ.info.attack">{{champ.info.attack}}</div>
+        <div [attr.class]="'customBar difficulty-'+champ.info.difficulty">{{champ.info.difficulty}}</div>
+    </div>
+</div>
+
+<skins [(championId)]="champ.id"></skins>

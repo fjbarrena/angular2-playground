@@ -1,0 +1,12 @@
+<div class="row" id="champions">
+    <div *ngFor="let item of champs" class="col-md-2" style="margin-bottom: 10px; text-align: center"> 
+        <img [attr.src]="'http://www.lolking.net/images/v2/champions/icons/size100x100/'+item.id+'.png'" 
+             [attr.alt]="item.name" (click)="selectedChampion(item.id)"  />
+         
+        <br />{{item.name}}
+    </div>
+</div>
+
+{{ 1476464345642 | timestampToDate }}
+
+<router-outlet></router-outlet>
